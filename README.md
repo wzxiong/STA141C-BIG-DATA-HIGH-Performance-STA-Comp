@@ -24,3 +24,24 @@ A high-level summary of the syllabus is as follows:
 	
 	* Multicore programming
 	* Distributed (MapReduce)
+
+## Homework
+
+1. Quora Question Pair Competition
+	
+	* NLP, Analyse similarity between question pairs
+	* compute overlapping score depend on whether removing stop words
+	
+2. Quora Question Pair Competition
+	
+	* PageRank, Hubs and Authorities
+	* Computing the PPMI matrix
+	* Word2vec Computation
+3. ML regression, classification problem
+
+	* Different regression, classification methods
+	* gradient descent algorithm with line search
+
+4. Parallel computing 
+	
+	* Multicore programming
